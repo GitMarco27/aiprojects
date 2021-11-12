@@ -1,2 +1,2 @@
 # aiprojects
-A collection of my public projects on the theme of artificial intelligence
+A collection of my public projects
